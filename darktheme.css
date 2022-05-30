@@ -3,6 +3,12 @@ body {
   background-color: #000000;
   color: #FFFFFF;
 }
+.report-result-pass {
+    color: #00AA00;
+}
+.report-result-fail {
+    color: #CC0000;
+}
 .report-modal {
 	background: #111111;
 }
