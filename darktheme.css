@@ -3,6 +3,9 @@ body {
   background-color: #000000;
   color: #FFFFFF;
 }
+.unseen, .custom-value {
+    color: #EEEEEE;
+}
 .report-result-pass {
     color: #00AA00;
 }
@@ -28,14 +31,14 @@ body {
 	background-color: #111111;
 }
 .main-table tbody tr:hover {
-	background-color: #111100;
+	background-color: #333333;
 }
 .main-table tbody tr.selected {
-	background-color: #111100;
+	background-color: #333333;
 	color: #FFFFFF;
 }
 .main-table.focused tbody tr.selected {
-	background-color: #333300;
+	background-color: #333333;
 }
 .main-table tbody tr.focused td:first-child {
 	border-left: 0.2em solid #FF7300;
