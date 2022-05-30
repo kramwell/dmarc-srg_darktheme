@@ -1,0 +1,106 @@
+/* DarkTheme for dmarc-srg @KramWell */
+body {
+  background-color: #000000;
+  color: #FFFFFF;
+}
+.report-modal {
+	background: #111111;
+}
+.dialog-overlay {
+	color: #000000;
+}
+.dialog .title {
+    background-color: #AAAAAA;
+}
+.dialog .container {
+    background-color: #EEEEEE;
+}
+.main-table {
+	color: #999999;
+}
+.main-table th {
+	background-color: #111111;
+}
+.main-table tbody tr:hover {
+	background-color: #111100;
+}
+.main-table tbody tr.selected {
+	background-color: #111100;
+	color: #FFFFFF;
+}
+.main-table.focused tbody tr.selected {
+	background-color: #333300;
+}
+.main-table tbody tr.focused td:first-child {
+	border-left: 0.2em solid #FF7300;
+}
+.state-red .state-text {
+	color: #CC0000;
+}
+.state-red .state-background {
+	background-color: #CC0000;
+}
+.state-green .state-text {
+	color: #00AA00;
+}
+.state-green .state-background {
+	background-color: #00AA00;
+}
+.state-blue .state-text {
+	color: #0099CC;
+}
+.state-blue .state-background {
+	background-color: #0099CC;
+}
+.block-list-item {
+	background-color: #090909;
+}
+.report-modal > .report-header {
+	border-bottom: solid 0.1rem #222222;
+	background-color: #222222;
+}
+.report-modal .close-btn {
+	background: #111111;
+}
+.report-records {
+	border-top: solid 0.1rem #222222;
+}
+.report-record > .header {
+	border-bottom: solid 0.1rem #222222;
+	background-color: #111111;
+}
+.report-record {
+	border-color: #222222;
+}
+.popup-menu {
+	background-color: 000000;
+}
+.toggle-button > span, .toggle-button > span:after, .toggle-button span:before {
+	background-color: #999999;
+}
+.menu-box {
+	background-color: #111111;
+}
+.menu-box > li {
+	border-top: 1px solid #333333;
+}
+.menu-box > li:last-child {
+	border-bottom: 1px solid #333333;
+}
+.menu-box li li {
+	background-color: #000000;
+	border-bottom: 1px solid #333333;
+}
+.menu-box li a, .menu-box li span {
+	color: #CCCCCC;
+}
+.menu-box a:hover {
+	color: #FFFFFF;
+	background-color: #111100;
+}
+.menu-box li span:after {
+	border-top: 3px solid #BBBBBB;
+	border-right: 3px solid #BBBBBB;
+.submenu .selected {
+	border-left: 0.2em solid #FF7300;
+}
