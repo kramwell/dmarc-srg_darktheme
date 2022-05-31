@@ -1,7 +1,7 @@
 /* DarkTheme for dmarc-srg @KramWell */
 body {
   background-color: #000000;
-  color: #FFFFFF;
+  color: #EEEEEE;
 }
 .unseen, .custom-value {
     color: #EEEEEE;
@@ -107,7 +107,7 @@ body {
 	color: #CCCCCC;
 }
 .menu-box a:hover {
-	color: #FFFFFF;
+	color: #EEEEEE;
 	background-color: #111100;
 }
 .menu-box li span:after {
