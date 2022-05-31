@@ -24,6 +24,9 @@ body {
 .dialog .container {
     background-color: #EEEEEE;
 }
+#main-menu-button {
+	background-color: #000000;
+}
 .main-table {
 	color: #999999;
 }
